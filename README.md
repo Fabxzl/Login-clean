@@ -1,4 +1,4 @@
-# Área para o usuário se conectar
+# Área para o usuário conseguir se conectar
 
 Meu segundo formulário, porém com um visual minimalista.
 
